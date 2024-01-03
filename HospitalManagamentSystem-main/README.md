@@ -1,1 +1,2 @@
-# HospitalManagementSystem
+The Hospital Management System (HMS) is an integrated solution, meticulously developed with Angular, Spring (Java), Hibernate, MySQL, HTML, CSS, JavaScript, and TypeScript, aimed at optimizing the operational efficiency of healthcare institutions.
+It features a user-friendly interface that facilitates easy navigation for healthcare professionals and staff across different modules.The combination of powerful front-end and robust back-end technologies ensures seamless communication and optimized workflow for healthcare institutions.
